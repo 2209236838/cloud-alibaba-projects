@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-demo/cloudalibaba-consumer/cloudalibaba-consumer.iml" filepath="$PROJECT_DIR$/cloudalibaba-demo/cloudalibaba-consumer/cloudalibaba-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-demo/cloudalibaba-demo.iml" filepath="$PROJECT_DIR$/cloudalibaba-demo/cloudalibaba-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-demo/coludalibaba-provider/coludalibaba-provider.iml" filepath="$PROJECT_DIR$/cloudalibaba-demo/coludalibaba-provider/coludalibaba-provider.iml" />
+    </modules>
+  </component>
+</project>

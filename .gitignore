@@ -1,0 +1,3 @@
+# Project exclude paths
+/cloudalibaba-demo/cloudalibaba-consumer/target/
+/cloudalibaba-demo/coludalibaba-provider/target/
